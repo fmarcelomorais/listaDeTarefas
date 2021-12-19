@@ -1,0 +1,24 @@
+
+#app{
+width: 100vw;
+height: 100vh;
+background: #c46ff5;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.fundo{
+    width: 90%;
+    border-radius: 20px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  
+}
+.list{
+    width: 90%;
+}
+
